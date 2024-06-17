@@ -1,1 +1,1 @@
-# BitCrane Operating S9 Hashboard
+# Bitcrane Operating S9 Hashboard
